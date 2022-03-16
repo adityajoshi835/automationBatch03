@@ -16,13 +16,4 @@
 		Alert alrt3 = driver.switchTo().alert();
 		alrt3.accept();
 		Thread.sleep(2000);
-		TC03.txt
-jhjdwuwhfojggiu
-
-		//3rd Alert
-		WebElement btn3 = driver.findElement(By.xpath("(//button[@type='button'])[4]"));
-		btn3.click();
-		Thread.sleep(2000);
 		
-		Alert alrt3 = driver.switchTo().alert();
-		alrt3.accept();
